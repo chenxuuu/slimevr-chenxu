@@ -1,0 +1,13 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ESP32-C3-WROOM-02-N4") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/ESP32-C3-WROOM-02-N4.kicad_sym") (options "") (descr ""))
+	(lib (name "LSM6DSRTR") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/LSM6DSRTR.kicad_sym") (options "") (descr ""))
+	(lib (name "TP4056") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/TP4056.kicad_sym") (options "") (descr ""))
+	(lib (name "ESP32-S3-WROOM-1U-N16R8") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/ESP32-S3-WROOM-1U-N16R8.kicad_sym") (options "") (descr ""))
+	(lib (name "ME6212C33M5G") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/ME6212C33M5G.kicad_sym") (options "") (descr ""))
+	(lib (name "BQ24040DSQR") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/BQ24040DSQR.kicad_sym") (options "") (descr ""))
+	(lib (name "TSC006A1526A") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/TSC006A1526A.kicad_sym") (options "") (descr ""))
+	(lib (name "TS-1088-AR02016") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/TS-1088-AR02016.kicad_sym") (options "") (descr ""))
+	(lib (name "SK12D07VG5") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/SK12D07VG5.kicad_sym") (options "") (descr ""))
+	(lib (name "SI2301") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/SI2301.kicad_sym") (options "") (descr ""))
+)
