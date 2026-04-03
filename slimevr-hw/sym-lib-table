@@ -10,4 +10,5 @@
 	(lib (name "TS-1088-AR02016") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/TS-1088-AR02016.kicad_sym") (options "") (descr ""))
 	(lib (name "SK12D07VG5") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/SK12D07VG5.kicad_sym") (options "") (descr ""))
 	(lib (name "SI2301") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/SI2301.kicad_sym") (options "") (descr ""))
+	(lib (name "HX MSK12C02-HB") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/HX MSK12C02-HB.kicad_sym") (options "") (descr ""))
 )
