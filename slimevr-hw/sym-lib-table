@@ -11,4 +11,6 @@
 	(lib (name "SK12D07VG5") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/SK12D07VG5.kicad_sym") (options "") (descr ""))
 	(lib (name "SI2301") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/SI2301.kicad_sym") (options "") (descr ""))
 	(lib (name "HX MSK12C02-HB") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/HX MSK12C02-HB.kicad_sym") (options "") (descr ""))
+	(lib (name "ESP-WROOM-02-N4") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/ESP-WROOM-02-N4.kicad_sym") (options "") (descr ""))
+	(lib (name "TP4054") (type "KiCad") (uri "${KIPRJMOD}/kicad_api_libs/TP4054.kicad_sym") (options "") (descr ""))
 )

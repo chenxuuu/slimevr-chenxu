@@ -5,500 +5,6 @@
 	(uuid "26d55be4-f922-492b-905a-c9054bcf8db2")
 	(paper "A4")
 	(lib_symbols
-		(symbol "BQ24040DSQR:TI-BQ24040DSQ10-1500X900TP"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U"
-				(at -1.27 1.27 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-				)
-			)
-			(property "Value" "BQ24040DSQR"
-				(at -1.27 -3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.8288 1.8288)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "kicad_api_lib:BQ24040DSQR"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" "http://file.elecfans.com/web1/M00/9E/EE/o4YBAF1AlsaAQsPNABl1WG_ubho460.pdf?filename=o4YBAF1AlsaAQsPNABl1WG_ubho460.pdf"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "800 mA, Single-Input, Single Cell Li-Ion Battery Charger with Auto Start. Vovp=6.6 V, 3.5 V, -40 to 85 degC, 10-pin SON (DSQ), Green (RoHS & no Sb/Br)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "MPN" "BQ24040DSQR"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Manufacturer" "Texas Instruments (TI)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "battery_pack_voltage" "4.2 V"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "battery_type" "锂离子/聚合物"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "contact_plating" "Gold"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "huaqiu_pn" "G0066284"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "input_voltage" "3.5 V"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "lead_free" "Lead Free"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "mount" "SMT"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "operating_temperature" "-40 °C, 85 °C"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "output_current" "800 mA"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "output_voltage" "4.2 V"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "package" "DFN-10-EP(2x2)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "packaging" "Tape and Reel"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "pins" "10"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "power_dissipation" "1.66 W"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "reach_svhc_compliant" "No SVHC"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "supply_current" "800 μA"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "supply_voltage" "28 V, 4.75 V"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "voltage" "28 V"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "TI-BQ24040DSQ10-1500X900TP_1_0"
-				(rectangle
-					(start 15.24 15.24)
-					(end -15.24 -15.24)
-					(stroke
-						(width 0.254)
-						(type solid)
-						(color 0 0 0 1)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin power_in line
-					(at -20.32 10.16 0)
-					(length 5.08)
-					(name "IN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -20.32 5.08 0)
-					(length 5.08)
-					(name "ISET"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 20.32 -12.7 180)
-					(length 5.08)
-					(name "VSS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -20.32 0 0)
-					(length 5.08)
-					(name "PRE-TERM"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin tri_state line
-					(at 20.32 0 180)
-					(length 5.08)
-					(name "~{PG}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -20.32 -12.7 0)
-					(length 5.08)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 20.32 -5.08 180)
-					(length 5.08)
-					(name "ISET2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin tri_state line
-					(at 20.32 5.08 180)
-					(length 5.08)
-					(name "~{CHG}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -20.32 -5.08 0)
-					(length 5.08)
-					(name "TS"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 20.32 10.16 180)
-					(length 5.08)
-					(name "OUT"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "10"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 20.32 -10.16 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "11"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector:Conn_01x02_Socket"
 			(pin_names
 				(offset 1.016)
@@ -1891,7 +1397,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Diode:SS14"
+		(symbol "Diode:1N5819WS"
 			(pin_numbers
 				(hide yes)
 			)
@@ -1914,7 +1420,7 @@
 					)
 				)
 			)
-			(property "Value" "SS14"
+			(property "Value" "1N5819WS"
 				(at 0 -2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1924,7 +1430,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Diode_SMD:D_SMA"
+			(property "Footprint" "Diode_SMD:D_SOD-323"
 				(at 0 -4.445 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1935,7 +1441,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.vishay.com/docs/88746/ss12.pdf"
+			(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1946,7 +1452,7 @@
 					)
 				)
 			)
-			(property "Description" "40V 1A Schottky Diode, SMA"
+			(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1968,7 +1474,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "D*SMA*"
+			(property "ki_fp_filters" "D*SOD?323*"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1979,7 +1485,7 @@
 					)
 				)
 			)
-			(symbol "SS14_0_1"
+			(symbol "1N5819WS_0_1"
 				(polyline
 					(pts
 						(xy -1.905 0.635) (xy -1.905 1.27) (xy -1.27 1.27) (xy -1.27 -1.27) (xy -0.635 -1.27) (xy -0.635 -0.635)
@@ -2017,7 +1523,7 @@
 					)
 				)
 			)
-			(symbol "SS14_1_1"
+			(symbol "1N5819WS_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -4239,6 +3745,239 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "TP4054:TP4054_C668215"
+			(pin_names
+				(offset 1.0142)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U?"
+				(at 0 7.0357 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TP4054"
+				(at 0 5.2577 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "kicad_api_lib:TP4054"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "http://file.elecfans.com/web2/M00/59/5A/pYYBAGLmN_mANdk2AApeA5Qo288741.pdf"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "SOT-23-5  Battery Management ICs ROHS"
+				(at 0 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "MPN" "TP4054"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "UMW"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "huaqiu_pn" "G4732225"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "mount" "SMT"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "package" "SOT-23-5"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "packaging" "3000pcs"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TP4054_C668215_1_1"
+				(rectangle
+					(start -10.16 -3.81)
+					(end 10.16 3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -13.97 2.54 0)
+					(length 3.81)
+					(name "CHRG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -13.97 0 0)
+					(length 3.81)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -13.97 -2.54 0)
+					(length 3.81)
+					(name "BAT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 13.97 2.54 180)
+					(length 3.81)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 13.97 0 180)
+					(length 3.81)
+					(name "PROG"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "TS-1088-AR02016:SW-PTB-2"
 			(pin_numbers
 				(hide yes)
@@ -5220,10 +4959,10 @@
 		(uuid "250832da-58fa-4855-bd37-38fd6f5c90cb")
 	)
 	(junction
-		(at 139.7 71.12)
+		(at 45.72 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "2d503494-0244-498e-8774-5f8572451787")
+		(uuid "2591dc0a-4489-43ad-95cb-0c5830c64ced")
 	)
 	(junction
 		(at 101.6 134.62)
@@ -5250,12 +4989,6 @@
 		(uuid "37abf4a6-aaf4-4a36-91cf-b741309c0281")
 	)
 	(junction
-		(at 88.9 58.42)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3c785a26-a1c4-4b99-9c16-21dabc9f17b2")
-	)
-	(junction
 		(at 66.04 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5280,16 +5013,10 @@
 		(uuid "59e6d37c-7056-4cac-8fb0-37d2c8a0f159")
 	)
 	(junction
-		(at 83.82 48.26)
+		(at 123.19 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6ba9a3b6-9f78-465b-a82a-5131777b1692")
-	)
-	(junction
-		(at 86.36 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6bd28fe3-f3bc-48cb-94e0-94e1671e598c")
+		(uuid "5d663d2d-b100-435d-9837-9ccb4b7d46b7")
 	)
 	(junction
 		(at 55.88 88.9)
@@ -5322,12 +5049,6 @@
 		(uuid "962a53bf-a372-4923-aaf2-ccd5cf354e3f")
 	)
 	(junction
-		(at 139.7 68.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "965980e8-b457-48bb-8836-8ed155ad1f54")
-	)
-	(junction
 		(at 93.98 134.62)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5340,6 +5061,12 @@
 		(uuid "9763f43d-2aa2-459b-b8fb-491a709cf0cd")
 	)
 	(junction
+		(at 156.21 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a630f739-8763-441e-a948-1fc372fcedd8")
+	)
+	(junction
 		(at 30.48 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5350,12 +5077,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abaf3243-9df8-499c-a73b-ac2b12b6ae64")
-	)
-	(junction
-		(at 165.1 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c94db103-e1e1-4bcc-8f86-402656ed736a")
 	)
 	(junction
 		(at 35.56 91.44)
@@ -5376,12 +5097,6 @@
 		(uuid "db577008-53f9-4da0-a784-626c8f8132ea")
 	)
 	(junction
-		(at 165.1 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e4b11129-d2a4-42c5-827f-c5526ebd1077")
-	)
-	(junction
 		(at 172.72 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5400,22 +5115,10 @@
 		(uuid "f0ff1726-4042-4ad2-8bd2-0159e2f21b83")
 	)
 	(junction
-		(at 45.72 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f7d75541-7cc8-4aec-a3cf-1d09adef5504")
-	)
-	(junction
 		(at 33.02 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f81bd775-ef5d-4968-9625-c6d51d22fa9d")
-	)
-	(junction
-		(at 88.9 63.5)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb47744a-2d34-4c3f-9c1e-56817ef81da9")
 	)
 	(junction
 		(at 48.26 43.18)
@@ -5438,10 +5141,6 @@
 	(no_connect
 		(at 48.26 55.88)
 		(uuid "76f05f77-5842-4a2d-8970-5f4c0f24d8c7")
-	)
-	(no_connect
-		(at 99.06 71.12)
-		(uuid "9188ba4e-714c-47dc-a9b2-ff065a8fef40")
 	)
 	(no_connect
 		(at 78.74 124.46)
@@ -5529,16 +5228,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 58.42) (xy 165.1 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "119112d2-cdc0-43d6-9e77-210246526811")
-	)
-	(wire
-		(pts
 			(xy 101.6 172.72) (xy 106.68 172.72)
 		)
 		(stroke
@@ -5546,16 +5235,6 @@
 			(type default)
 		)
 		(uuid "11f80515-f881-4bc3-be38-c2cb9e0062bb")
-	)
-	(wire
-		(pts
-			(xy 139.7 53.34) (xy 142.24 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "12cd399a-43bc-43fa-b138-57c2b1534de5")
 	)
 	(wire
 		(pts
@@ -5579,16 +5258,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 53.34) (xy 160.02 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19b27d4d-eb9c-4b1b-82c5-3784ce014083")
-	)
-	(wire
-		(pts
 			(xy 50.8 182.88) (xy 53.34 182.88)
 		)
 		(stroke
@@ -5606,16 +5275,6 @@
 			(type default)
 		)
 		(uuid "28b0911a-f0c2-4aed-89fc-ff7c9fe75c69")
-	)
-	(wire
-		(pts
-			(xy 165.1 48.26) (xy 170.18 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2981dd41-7a23-4a17-b736-82ab50e3ced8")
 	)
 	(wire
 		(pts
@@ -5656,16 +5315,6 @@
 			(type default)
 		)
 		(uuid "3e5cd6ea-8690-47a7-b117-9ff33ca72984")
-	)
-	(wire
-		(pts
-			(xy 96.52 63.5) (xy 99.06 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41cc87bb-e598-47d2-bea5-8b2586737b25")
 	)
 	(wire
 		(pts
@@ -5716,6 +5365,16 @@
 			(type default)
 		)
 		(uuid "4ff66651-0a15-41d4-994c-a20af43158ee")
+	)
+	(wire
+		(pts
+			(xy 151.13 55.88) (xy 156.21 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51520da9-2aa6-4e01-bc3f-ca03ed0b2d40")
 	)
 	(wire
 		(pts
@@ -5799,16 +5458,6 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 55.88) (xy 83.82 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63d92aa4-6e75-44c0-aa09-7a9266ccdc10")
-	)
-	(wire
-		(pts
 			(xy 129.54 124.46) (xy 134.62 124.46)
 		)
 		(stroke
@@ -5826,16 +5475,6 @@
 			(type default)
 		)
 		(uuid "66d49eeb-de42-4340-b543-da862d65cb41")
-	)
-	(wire
-		(pts
-			(xy 83.82 48.26) (xy 99.06 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67ad47e0-5133-4d6f-9a52-5a2e67bce0cd")
 	)
 	(wire
 		(pts
@@ -5876,16 +5515,6 @@
 			(type default)
 		)
 		(uuid "6db63020-446a-41a6-9cd6-75d225c74952")
-	)
-	(wire
-		(pts
-			(xy 149.86 53.34) (xy 152.4 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "729a9dda-38e0-49db-80be-7b4c3bcbe1ba")
 	)
 	(wire
 		(pts
@@ -5979,16 +5608,6 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 58.42) (xy 99.06 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8ae1814f-4bff-4d33-9240-5d1d503d4df1")
-	)
-	(wire
-		(pts
 			(xy 162.56 83.82) (xy 167.64 83.82)
 		)
 		(stroke
@@ -6059,16 +5678,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 58.42) (xy 142.24 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e0b796f-ebbf-4921-9ff9-24713cfd394b")
-	)
-	(wire
-		(pts
 			(xy 93.98 142.24) (xy 101.6 142.24)
 		)
 		(stroke
@@ -6089,23 +5698,13 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 58.42) (xy 152.4 58.42)
+			(xy 118.11 55.88) (xy 123.19 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9f6dcf6f-d970-4121-a860-4a21c8f7049e")
-	)
-	(wire
-		(pts
-			(xy 86.36 66.04) (xy 86.36 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9f7f9b76-8dc2-420f-adc8-bb0c40b8fd6c")
+		(uuid "9f735303-e912-442f-a6b5-9d23bb3de4bd")
 	)
 	(wire
 		(pts
@@ -6139,6 +5738,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 55.88) (xy 161.29 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8d477fb-1b4f-4043-99d9-7f87e2491552")
+	)
+	(wire
+		(pts
 			(xy 43.18 152.4) (xy 53.34 152.4)
 		)
 		(stroke
@@ -6159,33 +5768,13 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 48.26) (xy 165.1 53.34)
+			(xy 151.13 58.42) (xy 153.67 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "af85a20e-47c3-4fcb-b83e-cf880dca7733")
-	)
-	(wire
-		(pts
-			(xy 88.9 53.34) (xy 88.9 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af8e0ba2-c653-4b5a-b4fb-9e8a3e03257b")
-	)
-	(wire
-		(pts
-			(xy 86.36 63.5) (xy 88.9 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b01b4e78-79ce-494e-8306-a9fe7c29f38a")
+		(uuid "adb0dd6a-504e-4f14-b11a-42c30c3a1b18")
 	)
 	(wire
 		(pts
@@ -6229,16 +5818,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 63.5) (xy 139.7 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bea953b0-aaf1-47cd-9d53-40e2ebae0355")
-	)
-	(wire
-		(pts
 			(xy 124.46 175.26) (xy 129.54 175.26)
 		)
 		(stroke
@@ -6246,16 +5825,6 @@
 			(type default)
 		)
 		(uuid "c1760093-afb9-4657-92c9-41d91d41d3a9")
-	)
-	(wire
-		(pts
-			(xy 139.7 48.26) (xy 165.1 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4db7033-d82c-4631-9f5e-1b23b34a2eae")
 	)
 	(wire
 		(pts
@@ -6269,16 +5838,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 68.58) (xy 139.7 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd7f1cc8-4b29-40ff-b69a-0788fbbcf00f")
-	)
-	(wire
-		(pts
 			(xy 147.32 172.72) (xy 152.4 172.72)
 		)
 		(stroke
@@ -6286,16 +5845,6 @@
 			(type default)
 		)
 		(uuid "d20bd875-d9fe-4c9b-94b0-0bcb6c96d5f9")
-	)
-	(wire
-		(pts
-			(xy 96.52 53.34) (xy 99.06 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d25c78f8-1d1c-4e68-9211-e47c926bd220")
 	)
 	(wire
 		(pts
@@ -6346,26 +5895,6 @@
 			(type default)
 		)
 		(uuid "d6c9adbe-6217-4c15-b060-4172b01b13ae")
-	)
-	(wire
-		(pts
-			(xy 160.02 58.42) (xy 165.1 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8ea386b-95f3-42b5-8877-637657eaca37")
-	)
-	(wire
-		(pts
-			(xy 83.82 63.5) (xy 86.36 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "daba7f15-5f40-417e-9112-3af670871124")
 	)
 	(wire
 		(pts
@@ -6549,16 +6078,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 63.5) (xy 88.9 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fbb7a6ef-14d7-4747-bed8-127fb42be91b")
-	)
-	(wire
-		(pts
 			(xy 48.26 121.92) (xy 53.34 121.92)
 		)
 		(stroke
@@ -6566,6 +6085,177 @@
 			(type default)
 		)
 		(uuid "fcecc4b9-7fcc-4a87-a8c2-f2d295bd764d")
+	)
+	(image
+		(at 195.58 5.08)
+		(uuid "0633218f-9c4d-4734-896b-383a3d448fef")
+		(data "iVBORw0KGgoAAAANSUhEUgAAAXoAAAE0CAIAAACtkG/bAAAAA3NCSVQICAjb4U/gAAAgAElEQVR4"
+			"nO3da3BTZf4H8N/pvaVXcVdAgSS6AyemQhF9tWDxL6tNRKFrZyChXZX1tuOusEnryrAggo6myeKO"
+			"150dBJpJqItbHSSpu+5IdRzXXRk6a2NPGSQJsFthZaH3G6Xn/yKXJm1pk5A8J2m/n1fNyck5v3L5"
+			"5nmec87zcKIoEgBA/KVIXQAAzBSIGwBgBHEDAIwgbgCAEcQNADCCuAEARhA3AMAI4gYAGEHcAAAj"
+			"iBsAYARxAwCMIG4AgBHEDQAwgrgBAEYQNwDACOIGABhB3AAAI4gbAGAEcQOxdOzYsdLSUqmrgASF"
+			"uIEY6+3tDXpl03CcxhK0wWlQcBpbZIcUDHLOT2MjwSDnFDVC6FkUBuc1FA1MIG4grrSmarnj4Gi8"
+			"2GrM7jKdNrKDNAseub5FFEVRFO1a4k0vqN2H9gbyRqjZ5pCVb1LFrGiIE8QNxBdfVS5vtPrzxmZt"
+			"lOuNEaaN87hA/LLgNKnUqT0Ne33NGWHvIbf6BRMfi2ohrhA3EGeqTeUyh9Xbn7JY/c0Qm0ZuEEgw"
+			"yANdLZtGbSOLhgsmNwhEQl2Dmxw6juO4QB9KqytzN9QJRETOvQ0eta5Skt8NIoO4gXjjN1XIHdsN"
+			"ApHtoENesWlMM8T7lk+lXQzmNvFEvNHlf23la5XeeNJuULtrDTZvGEXcOwNpIG4g7viqcrmnYa/T"
+			"Zm2Ul1eFpg2vt1Y0aALjvhO1boKU8DISWgQiokqdmhxWi7D3kFu9AWmTHBA3EH+qTeUyd8OabY6y"
+			"3aZxA7olRnv5IY3vutJErRuhRuHrQzn3NngCgaXVlZFju6aB9Cb0pJIE4gYY4E0vqN2eqzVDeNOH"
+			"5Q1rtgkTvUdEvNFefkjJcRxXbKZqeyCwtEa93OOmcb0zSFhpUhcAM0OlXZykDaIy2SsalFe9cYY3"
+			"uUXTRJ9yTbQZEhYniqLUNcD0cezYsaeeeuqrr76SuhBIROhMAQAjiBsAYARxAwCMIG4AgBHEDQAw"
+			"grgBAEYQNwDACOIGABhB3AAAI4gbAGAEcQMAjCBuAIARxA3E0h//+Mf29vadO3e2tbVJXQskHDwR"
+			"DjGzatWqf/zjH/39/ZmZmTfccMPp06elrggSyzSJm1WrVkldwvRUWlra1NQU5s7Be6alpS1dujQ3"
+			"NzceVc1AR48elbqEGJgO02s1NTV1dHTs2bNH6kKmodLS0rvuuivMnYPjJj09/YknnrjlllviUtYM"
+			"s2XLlqampmmwPOl0iBsiKiwsnAZ/GYkp/D/YuXPnnjt3ztte7u/vv++++2666aY4VjZjFBYWSl1C"
+			"bGCoGGLm888/X758eW5u7ooVK44cOYKsgTGmSesGEoFCoXjzzTefeuqpzz77TOpaIBGhdQMAjCBu"
+			"AIARxA0AMIK4AQBGEDcAwAjiBgAYQdwAACOIGwBgBHEDAIzgrmKAROdwOIaGhrq7u9PS0tLS0tLT"
+			"06WuKEpo3QAkuuzs7Pz8/Ozs7MHBwd7eXqnLiR5aNwAJTRTF3t7ey5cvZ2Rk5OfncxwndUXRQ9wA"
+			"JKKRkZHBwcGhoaHU1NSMjIxZs2YlddB4IW4AElFnZycR5ebmJu9IzXiIG4BEVFhYODAw0Nvbm5aW"
+			"lpWVlZqaitYNAMQFx3HZ2dlZWVlE1NvbOzQ0lJmZmZOTk9ShgytTAImL4ziO43Jzc4uKijIyMrq7"
+			"u72drAjZNJzC4PS/UHOc2uZ/SzDIOS7o3bhC3AAkAVEUh4eHRVHMzMyM7JNOg4LTOSZ+z6bhlA0V"
+			"raLoMqmuvcapIW4AEtrIyEh/f39XVxcRFRQUeLtX4XIaFGvILlrVE7xn03A6obrVZeRjVOnUMHYD"
+			"kLj6+voGBgZmzZoV5WIMKpPLTUS2sduFbQrO7S6zigyzhtC6AUhMfX19HR0dqampRUVFEXegpuSh"
+			"8pZWvaBT1AgxPvKkEDcAiejKlSscx42MjMRlnduy3SYVb/pQT7VKjSX2h78axA1AIsrLy8vPzxdF"
+			"saurq6en5/Lly7HPHZXJVad2VDG6LEUYuwFIWBzH5eTk5OTkjIyMeB+byszMzM7OTkmJXSuh0t7a"
+			"olAWc0KdaK+M2VGvBnEDkOhSUlLy8vKuXLnS3d09ODh43XXXRXgArV3Ujr5wBL0g4o0u0RiTMqeG"
+			"uAFIaCMjI0NDQ0NDQ977jDMyMqSuKHqIG4BE5L2vb3BwcGRkJD09PTc3N5Z9KIkgbgAS0aVLl1JT"
+			"U/Py8qZBygRMn98EYDrJz88nop6enpGREalriRnEDUAiSktL8z6y0NPTk9QThgZD3AAkLu+EocuX"
+			"L29ra5O6lhhA3AAAI4gbAGAEcQMAjCBuAIARxA0AMIK4AQBGEDdwDZwGBcexnDAFkhriBqImGGoa"
+			"pK4BkgniBqJkU2vIuJvpVLeQ5BA3EBWLxrqB0WohcOXKlaiWl0o4eCIcIuc0KLbzdrfUZcwYqamp"
+			"BQUFUlcRA4gbiJhQ1+D2uJWc2fe6itMQi6knIdmhMwUR440u0ceqJlIzmeYWpgHEDQAwgriBa6G1"
+			"i2jaxFdPTw8RnTp1ahrMs4WxG4DE8uWXXx4/frytre3EiRMnTpz473//K5fLN2/e/MADDyxatGix"
+			"n0ajmT17ttTFRgatG4BE0dLSUllZ+dOf/vTrr79WKBSbN2/+5JNP+vr6+vr6Pv7444GBgXfffVer"
+			"1ebk5Pz1r3+dP3/+9u3bu7q6pK46AmjdJBO73X7s2DGpq5hMe3t7e3v7zp07pS5kCqWlpXfddZfU"
+			"VYxyuVxGo7G+vr6mpmb//v2pqanj90lPTy8uLi4uLva+PHnypMlkmj9/vsFgqK6uzsrKYltyNNC6"
+			"SSbHjh1ramqSuorJzJs37/HHH5e6iil89NFHzc3NUlcxqrq6etGiRbNnzz5z5szWrVsnzJrxfvSj"
+			"H/3hD3/44osvXC7X/PnzX3/99XjXee3QukkypaWlO3bskLqK5NbR0SF1CaOeeeYZQRDOnDkzd+7c"
+			"KD5+66237tu37/333zcYDET09NNPx7rAWELcAEjm6aefPnXqlMPhSEu7pv+J69atW7x48f3330+J"
+			"nTiIGwBp/OIXvzh9+rTdbo/JwnU8zx85ciTBEwdjNxAxm5rj1LbgLUKNgpMbBO8Lp0HBBWhsYz7o"
+			"p6gRGJaccJ544ol///vfscoaL2/i7NmzJ2HHcRA3EDHtBjU1WoNyxGaodatfMPFEZNFwxWa+zv+Q"
+			"Qx3pfIkjGOScTtC3+t5oLT+knLGJ88knnzQ1NR0+fDjmR+Z53mw2P//88/39/TE/+LVD3EDkKk16"
+			"mcMamMTPYnXI9KZKIhIM2x3y6tbR+4wr7a0tuhInkcVg9qitbpN/fhze9GHr7irWhSeI2tra6urq"
+			"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"
+		)
 	)
 	(image
 		(at -60.96 53.34)
@@ -23077,7 +22767,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03f8b5e8-77b2-411b-9847-9c94b2b7fdb8")
-		(property "Reference" "C5"
+		(property "Reference" "C1"
 			(at 20.066 188.976 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23141,7 +22831,85 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C5")
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 118.11 40.64 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "08e8a233-f350-44d3-ad13-55fc9b3209a4")
+		(property "Reference" "#PWR027"
+			(at 118.11 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 118.11 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 118.11 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "74c7c492-443e-42fd-b62c-4bc70c35ab04")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -23159,7 +22927,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0abfa311-b845-4361-a1e7-b3d54051eec4")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR03"
 			(at 26.67 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -23220,7 +22988,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR05")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -23238,7 +23006,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b05acff-df6a-4cc1-9ae1-9038f3b6bfa1")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR022"
 			(at 99.06 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -23298,7 +23066,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR019")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -23316,7 +23084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c4ecc57-bbb4-4180-929d-81c3b6ad4070")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR02"
 			(at 20.32 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -23376,7 +23144,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR021")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -23394,7 +23162,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c840046-8316-42f3-a463-d9767bcf5f18")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR09"
 			(at 33.02 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -23454,7 +23222,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR03")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -23472,7 +23240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0d05fed7-7618-4e9a-84b6-b04d79dca4ed")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR01"
 			(at 20.32 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -23532,86 +23300,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR022")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 156.21 58.42 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "115530f0-f4f2-461b-91fa-c145f846c68c")
-		(property "Reference" "R6"
-			(at 160.274 57.404 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1.5K"
-			(at 156.21 58.42 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 156.21 60.198 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 156.21 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "58d8e19b-5641-4102-95b2-6203a14eb7c0")
-		)
-		(pin "2"
-			(uuid "5cd4ee97-9dc7-477f-bf44-55a31415235a")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R6")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -23628,7 +23317,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "134f555d-a7f8-4e5d-858f-6ce8c7be415e")
-		(property "Reference" "R19"
+		(property "Reference" "R15"
 			(at 163.576 90.424 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23690,7 +23379,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R19")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -23708,7 +23397,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13e18878-81d1-4989-89d2-e1f3d19d9e81")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR045"
 			(at 177.8 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -23768,7 +23457,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR046")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -23786,7 +23475,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14347ff2-38d4-474d-aae6-a877a06a10f1")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR013"
 			(at 50.8 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -23846,7 +23535,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR023")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -23864,7 +23553,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18c58e78-6a3d-4718-828f-caeb7f0cb3e3")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR035"
 			(at 134.62 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -23924,7 +23613,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR031")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -23941,7 +23630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "19e92305-a070-4ee2-992a-e867385b58e3")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR06"
 			(at 34.29 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -24001,7 +23690,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR020")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -24018,7 +23707,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a656da8-8fa1-4bd0-8ecc-055e21fd3f2b")
-		(property "Reference" "R15"
+		(property "Reference" "R12"
 			(at 133.604 115.824 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24080,7 +23769,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R15")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -24097,7 +23786,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1af285fd-1af3-4c5e-9333-cab79d25a0ae")
-		(property "Reference" "U6"
+		(property "Reference" "U5"
 			(at 138.43 182.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24176,7 +23865,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "U6")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -24194,7 +23883,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ec43fae-846c-4371-ab5b-f6c7f81df9b6")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR014"
 			(at 53.34 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -24254,85 +23943,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 170.18 55.88 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1fcc21b6-bf05-43cd-8898-bd1ec91f8568")
-		(property "Reference" "#PWR011"
-			(at 170.18 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 170.18 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 170.18 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 170.18 55.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "ca025c44-1535-467d-9c6f-a227dfcbf0eb")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR011")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -24350,7 +23961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fe06985-78a3-4d76-a31d-71aacd2fb786")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR033"
 			(at 135.89 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -24411,7 +24022,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR038")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -24429,7 +24040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2285466d-4d9e-44c9-aa32-d2c8220a3da9")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR042"
 			(at 175.26 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -24489,7 +24100,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR032")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -24506,7 +24117,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2442a8c4-9da6-4d61-ba58-503c47de3eb8")
-		(property "Reference" "C4"
+		(property "Reference" "C6"
 			(at 93.472 97.282 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24570,7 +24181,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C4")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -24588,7 +24199,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27197c4e-acfc-438d-b3f4-0e5f99cbfe76")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR036"
 			(at 147.32 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -24648,15 +24259,15 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR040")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "BQ24040DSQR:TI-BQ24040DSQ10-1500X900TP")
-		(at 119.38 58.42 0)
+		(lib_id "power:+BATT")
+		(at 123.19 60.96 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24665,29 +24276,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "28b012b8-6d63-4151-92aa-d8649ab14e0a")
-		(property "Reference" "U2"
-			(at 119.38 36.83 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-			)
-		)
-		(property "Value" "BQ24040DSQR"
-			(at 119.38 40.64 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.8288 1.8288)
-				)
-			)
-		)
-		(property "Footprint" "kicad_api_lib:BQ24040DSQR"
-			(at 119.38 58.42 0)
+		(uuid "29b18126-1867-4929-af49-17b4cc387f25")
+		(property "Reference" "#PWR029"
+			(at 127 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24697,8 +24288,19 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://file.elecfans.com/web1/M00/9E/EE/o4YBAF1AlsaAQsPNABl1WG_ubho460.pdf?filename=o4YBAF1AlsaAQsPNABl1WG_ubho460.pdf"
-			(at 119.38 58.42 0)
+		(property "Value" "+BATT"
+			(at 119.38 60.9599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24708,8 +24310,8 @@
 				)
 			)
 		)
-		(property "Description" "800 mA, Single-Input, Single Cell Li-Ion Battery Charger with Auto Start. Vovp=6.6 V, 3.5 V, -40 to 85 degC, 10-pin SON (DSQ), Green (RoHS & no Sb/Br)"
-			(at 119.38 58.42 0)
+		(property "Datasheet" ""
+			(at 123.19 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24719,8 +24321,8 @@
 				)
 			)
 		)
-		(property "MPN" "BQ24040DSQR"
-			(at 119.38 58.42 0)
+		(property "Description" "Power symbol creates a global label with name \"+BATT\""
+			(at 123.19 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24729,253 +24331,14 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(property "Manufacturer" "Texas Instruments (TI)"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "battery_pack_voltage" "4.2 V"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "battery_type" "锂离子/聚合物"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "contact_plating" "Gold"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "huaqiu_pn" "G0066284"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "input_voltage" "3.5 V"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "lead_free" "Lead Free"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "mount" "SMT"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "operating_temperature" "-40 °C, 85 °C"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "output_current" "800 mA"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "output_voltage" "4.2 V"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "package" "DFN-10-EP(2x2)"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "packaging" "Tape and Reel"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "pins" "10"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "power_dissipation" "1.66 W"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "reach_svhc_compliant" "No SVHC"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "supply_current" "800 μA"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "supply_voltage" "28 V, 4.75 V"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "voltage" "28 V"
-			(at 119.38 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "8"
-			(uuid "b51d47d1-a14f-4a28-a9bb-686e3396479f")
 		)
 		(pin "1"
-			(uuid "fe5c6961-6464-4349-ab6f-84817ed72b88")
-		)
-		(pin "4"
-			(uuid "04c0c08a-e15f-42e9-af1e-2f164117f0fb")
-		)
-		(pin "5"
-			(uuid "9b0c0b2a-a915-44d4-b77b-5f49040f0dae")
-		)
-		(pin "6"
-			(uuid "3280fab5-d8d4-491f-b16c-ab41651905c3")
-		)
-		(pin "7"
-			(uuid "ff6f58c8-cf1f-4748-9967-783fe54b52d4")
-		)
-		(pin "3"
-			(uuid "7b434cb2-8a7d-4d4e-a7b7-a9ca891b6d25")
-		)
-		(pin "9"
-			(uuid "c770c6ba-e3a9-4cdd-8323-0e1031f655ca")
-		)
-		(pin "10"
-			(uuid "729371ed-f54a-42ce-9ddd-779f1e7d52d5")
-		)
-		(pin "11"
-			(uuid "c2300877-adee-4687-9f0c-e9517567e518")
-		)
-		(pin "2"
-			(uuid "1ffb2b9b-5ced-41fa-99d1-7acca0662030")
+			(uuid "062db787-8ee7-452b-8e9b-eb13a9dd528a")
 		)
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "U2")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -24992,7 +24355,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ade31d6-2659-48e7-bb18-6a9734b0def3")
-		(property "Reference" "R2"
+		(property "Reference" "R8"
 			(at 61.214 34.544 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25054,7 +24417,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R2")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -25072,7 +24435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b26df58-f15b-4c93-8b46-5b14b3a84307")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR018"
 			(at 78.74 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -25132,7 +24495,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR015")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -25264,85 +24627,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 156.21 53.34 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "2fab32c3-3697-46b4-826a-20a84425f1f0")
-		(property "Reference" "R5"
-			(at 160.274 52.324 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1.5K"
-			(at 156.21 53.34 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 156.21 55.118 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 156.21 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d7ab2d45-3ec9-479b-b673-716aef646f81")
-		)
-		(pin "2"
-			(uuid "ea486661-fd93-4f39-a4a2-a260de1eb494")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 35.56 182.88 0)
 		(unit 1)
@@ -25354,7 +24638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "303c1cd6-80d2-4909-959c-7f14a2db10a4")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR010"
 			(at 35.56 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -25414,7 +24698,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR024")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -25432,7 +24716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31ee21a1-c68e-4366-b261-c1724bdcc8e6")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR015"
 			(at 66.04 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25492,85 +24776,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 86.36 66.04 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "35a5d107-0e9f-40ff-87c8-6fc2d36b78df")
-		(property "Reference" "#PWR012"
-			(at 86.36 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 86.36 71.12 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 86.36 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "d1701a64-963a-4dd3-a430-0dbcbb0cc8d1")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR012")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -25608,7 +24814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kicad_api_lib:ESP32-C3-WROOM-02-N4"
+		(property "Footprint" "kicad_api_lib:ESP-WROOM-02-N4"
 			(at 66.04 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -25807,7 +25013,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38939668-bfe5-44ec-b32c-d544941db00d")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR07"
 			(at 30.48 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -25867,7 +25073,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR08")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -25884,7 +25090,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "38fa4746-fa40-4d8f-ac02-c34e9a72f67d")
-		(property "Reference" "C13"
+		(property "Reference" "C3"
 			(at 47.752 97.282 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25948,86 +25154,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 92.71 53.34 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "3d3f603b-56df-449b-b57c-f25f890b15e0")
-		(property "Reference" "R8"
-			(at 96.774 52.324 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1K"
-			(at 92.71 53.34 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 92.71 55.118 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 92.71 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "027681ae-7b00-4745-b495-43b7d7afd27d")
-		)
-		(pin "2"
-			(uuid "8017371b-0b1e-49ea-aa72-c871cb6f5730")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R8")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -26124,7 +25251,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41955640-ebcf-4bd9-9391-a00afb3abe0a")
-		(property "Reference" "R13"
+		(property "Reference" "R6"
 			(at 53.086 176.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26186,7 +25313,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R13")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -26204,7 +25331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "463feafc-b6eb-4fa1-b7dd-fbd78205c187")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR039"
 			(at 158.75 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -26265,7 +25392,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR043")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -26283,7 +25410,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46c64b2d-b47e-460a-a1f6-bff324ad9dae")
-		(property "Reference" "U7"
+		(property "Reference" "U4"
 			(at 137.16 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26428,85 +25555,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 83.82 48.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "47330c85-19b0-4a4a-a1cf-6570c5bcd06b")
-		(property "Reference" "#PWR013"
-			(at 83.82 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 83.82 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 83.82 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 83.82 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 83.82 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "061e4ca0-4831-4665-bd08-e5753f505b3c")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR013")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -26523,7 +25572,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4dc6d0b0-4c04-4172-8925-d30e53faa5ba")
-		(property "Reference" "C6"
+		(property "Reference" "C4"
 			(at 83.312 140.462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26587,164 +25636,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 92.71 58.42 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "4f4bbfbf-c886-4862-896c-31f60f3c4d9b")
-		(property "Reference" "R7"
-			(at 96.774 57.404 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "2K"
-			(at 92.71 58.42 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 92.71 60.198 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 92.71 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "dacb4d98-8463-4a71-b0b2-ec14355818f7")
-		)
-		(pin "2"
-			(uuid "627b3a69-7dae-478f-8159-cf125068b08b")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+BATT")
-		(at 165.1 48.26 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5279c226-d82c-4872-8e39-99e391fc00d8")
-		(property "Reference" "#PWR018"
-			(at 165.1 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+BATT"
-			(at 165.1 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 165.1 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+BATT\""
-			(at 165.1 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4375e5c8-37ad-4b5a-9d02-3e2ef94f2348")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR018")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -26762,7 +25654,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54b2c78f-a5f4-479f-bf20-83dcb1d661ff")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR043"
 			(at 175.26 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -26822,15 +25714,15 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR033")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 170.18 52.07 0)
+		(lib_id "power:GND")
+		(at 123.19 68.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26838,31 +25730,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "5f022f44-6749-4c5f-8883-fc1efe1cd3ef")
-		(property "Reference" "C2"
-			(at 170.434 54.356 0)
+		(fields_autoplaced yes)
+		(uuid "54b2fd33-cbc1-462e-8d6d-557b12d85597")
+		(property "Reference" "#PWR030"
+			(at 123.19 74.93 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 166.116 54.61 0)
+		(property "Value" "GND"
+			(at 123.19 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 171.1452 55.88 0)
+		(property "Footprint" ""
+			(at 123.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26873,7 +25765,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 52.07 0)
+			(at 123.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26883,8 +25775,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 170.18 52.07 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26893,17 +25785,248 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "82c41bb1-1f0e-4a78-9079-5d14a3dff142")
 		)
 		(pin "1"
-			(uuid "e9c9428e-09ad-42e6-be6e-7a48c87852da")
+			(uuid "b4919e6a-f8c0-4e68-8c21-ddc7d76f291e")
 		)
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C2")
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 123.19 58.42 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "57ae1d82-2aea-4594-8d60-bdacd3d2b030")
+		(property "Reference" "#PWR028"
+			(at 116.84 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 119.38 58.4199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 123.19 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 123.19 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fbe31761-c815-4ddf-b4e5-0cd94928ea23")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TP4054:TP4054_C668215")
+		(at 137.16 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5f612434-2cdf-4bf5-a0c6-851befcc4ce9")
+		(property "Reference" "U3"
+			(at 137.16 49.53 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TP4054"
+			(at 137.16 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "kicad_api_lib:TP4054"
+			(at 137.16 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "http://file.elecfans.com/web2/M00/59/5A/pYYBAGLmN_mANdk2AApeA5Qo288741.pdf"
+			(at 137.16 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "SOT-23-5  Battery Management ICs ROHS"
+			(at 137.16 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "TP4054"
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "UMW"
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "huaqiu_pn" "G4732225"
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "mount" "SMT"
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "package" "SOT-23-5"
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "packaging" "3000pcs"
+			(at 137.16 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "9b54da3e-fe86-4bd1-8a8e-614be5d9a5af")
+		)
+		(pin "1"
+			(uuid "b39a8763-6657-4ec1-b09b-c81319b4c1ac")
+		)
+		(pin "3"
+			(uuid "d310ef4f-678c-4ee8-87d3-0e5590c8242b")
+		)
+		(pin "4"
+			(uuid "c9b29a12-0e3a-451a-b1e4-292329d6dba8")
+		)
+		(pin "2"
+			(uuid "e2835037-5277-495c-b2f7-5cecb1378a46")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -26921,7 +26044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "647e8ecd-92f7-4d22-bf01-31d95b242a46")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR020"
 			(at 96.52 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -26981,7 +26104,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR017")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -27077,7 +26200,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "654d0540-0b88-40ed-95d4-0ae58436f0f4")
-		(property "Reference" "C10"
+		(property "Reference" "C13"
 			(at 173.736 145.542 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27141,7 +26264,86 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C10")
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 118.11 44.45 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6946c184-4533-4d45-9156-133c7f8b9638")
+		(property "Reference" "R9"
+			(at 116.078 44.45 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1K"
+			(at 118.11 44.45 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 119.888 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 118.11 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "69af4aca-3c62-49bd-aadf-06b805d2e130")
+		)
+		(pin "2"
+			(uuid "9403758e-cb56-43a8-9528-4168642188c2")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -27238,7 +26440,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6fe147ec-9716-43fd-8de9-0cde7fb56974")
-		(property "Reference" "D5"
+		(property "Reference" "D4"
 			(at 168.402 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27311,7 +26513,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "D5")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -27329,7 +26531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "711253d9-817e-49c6-8892-b43988fc5d7a")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 154.94 118.11 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27537,7 +26739,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -27555,7 +26757,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "724f1abd-5977-43c8-89ad-c8569852fec0")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR031"
 			(at 130.81 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -27615,7 +26817,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR035")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -27633,7 +26835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74a730c6-1996-4e40-94a6-6da03b5af852")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR08"
 			(at 30.48 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -27693,7 +26895,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR014")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -27710,7 +26912,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7bc6b381-5554-4e20-899e-fa5e7c80f97b")
-		(property "Reference" "C1"
+		(property "Reference" "C2"
 			(at 23.114 138.176 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27774,7 +26976,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C1")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -27792,7 +26994,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8010df7b-81e2-48b1-bb42-819d01cd7f74")
-		(property "Reference" "#FLG04"
+		(property "Reference" "#FLG03"
 			(at 98.425 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -27853,7 +27055,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#FLG04")
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
@@ -27871,7 +27073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "818e2908-e55c-4347-900f-e452b7954a95")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR025"
 			(at 106.68 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -27931,7 +27133,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR037")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -27949,7 +27151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8253a0ea-32f2-4aa1-b188-fe31328fafa7")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR021"
 			(at 95.25 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -28010,7 +27212,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR06")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -28028,7 +27230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82bdf31e-fdca-4952-8966-5aea2705b537")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR037"
 			(at 147.32 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -28088,7 +27290,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR034")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -28106,7 +27308,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "85296fe0-39ba-4139-8a25-078bd4d4cf76")
-		(property "Reference" "D4"
+		(property "Reference" "D3"
 			(at 168.402 82.804 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28179,7 +27381,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "D4")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -28196,7 +27398,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "86808610-49c5-4e3e-8b40-575230c63ad8")
-		(property "Reference" "C9"
+		(property "Reference" "C11"
 			(at 129.032 150.622 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28260,15 +27462,15 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C9")
+					(reference "C11")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 83.82 52.07 0)
+		(lib_id "Device:R")
+		(at 153.67 62.23 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28276,31 +27478,29 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "8c51c831-6a35-46c1-a8a4-9c64dc73fcee")
-		(property "Reference" "C3"
-			(at 84.074 54.356 0)
+		(uuid "878e3df4-4dbd-4bcc-90f9-af7e53481b42")
+		(property "Reference" "R13"
+			(at 151.638 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 79.756 54.61 0)
+		(property "Value" "2K"
+			(at 153.67 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 84.7852 55.88 0)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 155.448 62.23 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28311,7 +27511,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 83.82 52.07 0)
+			(at 153.67 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28321,8 +27521,8 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 83.82 52.07 0)
+		(property "Description" "Resistor"
+			(at 153.67 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28331,17 +27531,17 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "8c466ad3-7a94-49aa-8fdc-348e4e0a59c6")
 		)
 		(pin "1"
-			(uuid "0c14cbbe-673b-4665-aa5e-93c58fc2c2a0")
+			(uuid "cde283de-88fe-4506-a600-54f32ec3e5e1")
+		)
+		(pin "2"
+			(uuid "66d660d7-37e6-49ab-b364-c15e373b319d")
 		)
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C3")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -28438,7 +27638,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8eb7b101-d59c-46e7-a51d-5716e1c59f5a")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR011"
 			(at 44.45 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -28499,7 +27699,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR010")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -28597,7 +27797,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9cc114aa-4c1c-4586-a1b7-c63664b8811c")
-		(property "Reference" "C7"
+		(property "Reference" "C5"
 			(at 90.932 140.462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28661,7 +27861,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C7")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -28679,7 +27879,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0a95fd3-ccff-418a-9f57-f58cf31069ce")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR032"
 			(at 125.73 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -28740,7 +27940,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR028")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -28758,7 +27958,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a207e8d9-714f-4172-9270-230bdd2837e7")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR034"
 			(at 132.08 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -28818,7 +28018,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR027")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -28836,7 +28036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6612a4b-ddfd-402d-b989-38ba6851ab6d")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR012"
 			(at 50.8 105.41 0)
 			(hide yes)
 			(show_name no)
@@ -28896,7 +28096,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR042")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -29184,6 +28384,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 161.29 63.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a9ba3ebf-2c31-4227-8198-38ff9c7c2371")
+		(property "Reference" "#PWR041"
+			(at 161.29 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 161.29 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 161.29 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 161.29 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 161.29 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3f64a0d3-aac4-4e08-9786-4dcebe986e06")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 116.84 176.53 0)
 		(unit 1)
@@ -29194,7 +28472,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aa21f0d7-bf21-4d37-a261-0e8ee8c902aa")
-		(property "Reference" "C11"
+		(property "Reference" "C9"
 			(at 112.776 178.816 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29258,7 +28536,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C11")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -29276,7 +28554,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acb064b7-3936-44d7-8e68-12d81db5e193")
-		(property "Reference" "SW2"
+		(property "Reference" "SW1"
 			(at 27.94 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29471,7 +28749,98 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "SW2")
+					(reference "SW1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 118.11 52.07 270)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "af820e76-7d33-4fcf-8dbb-91e05dedd22d")
+		(property "Reference" "D2"
+			(at 119.126 49.022 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "LED"
+			(at 117.094 48.514 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+			(at 118.11 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.11 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 118.11 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 118.11 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "444916c5-b8a5-4f43-a9f0-bc8eb041e304")
+		)
+		(pin "1"
+			(uuid "a3c1a0d7-bb95-48b4-99c2-a1374beb4d70")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -29488,7 +28857,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b3e9adba-f7a3-4eb5-8f8a-db0903e213ba")
-		(property "Reference" "R9"
+		(property "Reference" "R10"
 			(at 122.174 103.124 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29550,7 +28919,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R9")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -29568,7 +28937,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b89746b7-c76f-42e6-b668-cd912e2884a5")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR019"
 			(at 96.52 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -29628,7 +28997,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR07")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -29645,7 +29014,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c124d9e0-a243-406e-824e-aea123f92e8d")
-		(property "Reference" "R18"
+		(property "Reference" "R14"
 			(at 163.576 82.804 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29707,7 +29076,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R18")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -29725,7 +29094,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c16f84ed-fb23-4943-abcd-ac11075a4c89")
-		(property "Reference" "#FLG03"
+		(property "Reference" "#FLG04"
 			(at 99.06 23.495 0)
 			(hide yes)
 			(show_name no)
@@ -29785,7 +29154,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#FLG03")
+					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -29802,7 +29171,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1a9e9cc-514a-49d8-9aba-6b203fce7c4d")
-		(property "Reference" "R14"
+		(property "Reference" "R2"
 			(at 33.528 90.424 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29864,7 +29233,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R14")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -29881,7 +29250,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c818ff14-9e6e-4b30-a30b-0b098890cdcf")
-		(property "Reference" "R17"
+		(property "Reference" "R11"
 			(at 125.984 138.176 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29943,7 +29312,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R17")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -29961,7 +29330,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ccaac855-f1d3-4865-8ba2-310f983bf03b")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG02"
 			(at 55.245 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -30022,7 +29391,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#FLG01")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -30040,7 +29409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d19fb462-2912-4ace-a5c2-bf2e20b0c27a")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR05"
 			(at 25.4 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -30100,7 +29469,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR030")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -30117,7 +29486,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d74daa78-3e68-4440-a3dc-64d1e7fbe1eb")
-		(property "Reference" "C8"
+		(property "Reference" "C7"
 			(at 98.552 140.462 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30181,7 +29550,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -30199,7 +29568,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d99dec71-5be4-4b3f-9866-ae6aecddca4d")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR026"
 			(at 116.84 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -30259,7 +29628,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR036")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -30277,7 +29646,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "db69ea66-3bbe-4e15-a358-cf0624a39e9b")
-		(property "Reference" "R12"
+		(property "Reference" "R1"
 			(at 22.606 176.53 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30339,178 +29708,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:SS14")
-		(at 41.91 88.9 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dbbf3e44-9cef-450d-8301-81cce6f082bf")
-		(property "Reference" "D3"
-			(at 42.2275 82.55 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SS14"
-			(at 42.2275 85.09 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 41.91 84.455 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.vishay.com/docs/88746/ss12.pdf"
-			(at 41.91 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "40V 1A Schottky Diode, SMA"
-			(at 41.91 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "e59ad420-4924-43c9-ac53-b42159d0c084")
-		)
-		(pin "2"
-			(uuid "ed1d1260-4e65-4217-beb6-1c10b8e47607")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "D3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 146.05 53.34 0)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ddaf8d3e-b253-4f83-891c-aa84a6cda2ad")
-		(property "Reference" "D1"
-			(at 149.098 54.356 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 149.606 52.324 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
-			(at 146.05 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 146.05 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 146.05 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 146.05 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c882705c-4309-42b5-8f81-d237543ec00e")
-		)
-		(pin "1"
-			(uuid "7eda7022-941c-4fcd-8f92-ead6985bd038")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "D1")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -30528,7 +29726,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "df77b661-043a-4a5a-8b83-3bd3de102133")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG01"
 			(at 34.925 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -30589,7 +29787,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#FLG02")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -30607,7 +29805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dfd4df6a-a417-4da4-a224-2d49b35ce2f8")
-		(property "Reference" "SW3"
+		(property "Reference" "SW2"
 			(at 58.42 175.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30802,16 +30000,15 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "SW3")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 146.05 58.42 0)
-		(mirror x)
+		(lib_id "Device:C")
+		(at 161.29 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -30819,29 +30016,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "e31ea7f5-0a65-4254-a14f-d8c9c9c1cb47")
-		(property "Reference" "D2"
-			(at 149.098 59.436 0)
+		(uuid "e55bd70a-13ed-49cc-b8c4-4e52c1037814")
+		(property "Reference" "C12"
+			(at 161.544 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "LED"
-			(at 149.606 57.404 0)
+		(property "Value" "4.7uF"
+			(at 155.702 62.23 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
-			(at 146.05 58.42 0)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 162.2552 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30852,7 +30051,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 58.42 0)
+			(at 161.29 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30862,19 +30061,8 @@
 				)
 			)
 		)
-		(property "Description" "Light emitting diode"
-			(at 146.05 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 146.05 58.42 0)
+		(property "Description" "Unpolarized capacitor"
+			(at 161.29 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30885,94 +30073,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "569e5547-6870-48ad-95bc-036023a3759b")
+			(uuid "4ffe4d5d-a6e5-44cb-9417-f9c5bb7a12e4")
 		)
 		(pin "1"
-			(uuid "ca795e50-cee3-43c0-85e0-8e4e6e1a0751")
+			(uuid "dd0c2b5a-392d-411c-8499-eb6cba232a4a")
 		)
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 92.71 63.5 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e38fbcde-5e48-4989-8611-87ed10d551cb")
-		(property "Reference" "R10"
-			(at 97.536 62.484 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "10K"
-			(at 92.71 63.5 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 92.71 65.278 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 92.71 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 92.71 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "76bdf5ee-50fa-4bcc-94a1-1bd3255dd702")
-		)
-		(pin "2"
-			(uuid "60131169-f284-42ea-8ea3-a716a4e945c2")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R10")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -30989,7 +30098,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e585bfba-643b-43b3-b51d-ca371ef4935c")
-		(property "Reference" "R1"
+		(property "Reference" "R7"
 			(at 61.214 31.75 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31051,7 +30160,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R1")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -31069,7 +30178,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea6dcacd-1d5d-4ea6-b422-93651b85a773")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 78.74 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31316,7 +30425,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -31334,7 +30443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eae28238-4a1c-4dfe-8480-36e6411e7937")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR017"
 			(at 66.04 189.23 0)
 			(hide yes)
 			(show_name no)
@@ -31394,7 +30503,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR025")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -31412,7 +30521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eddb10e2-3ae0-416b-83a9-72e1896c7ed5")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR024"
 			(at 105.41 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -31473,7 +30582,246 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR039")
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Diode:1N5819WS")
+		(at 41.91 88.9 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f07afbba-cdcc-44b7-9675-d73ffd7ea227")
+		(property "Reference" "D1"
+			(at 42.2275 82.55 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1N5819WS"
+			(at 42.2275 85.09 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_SOD-323"
+			(at 41.91 84.455 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2204281430_Guangdong-Hottech-1N5819WS_C191023.pdf"
+			(at 41.91 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
+			(at 41.91 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "af7b2c8c-19ef-42b1-9760-436886542bc4")
+		)
+		(pin "2"
+			(uuid "471eceb7-d5a8-4ae0-b053-720461eb06c5")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 156.21 55.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0f2b3ae-b047-45cb-a274-aee88bb7c085")
+		(property "Reference" "#PWR040"
+			(at 156.21 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 156.21 50.8 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 156.21 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 156.21 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 156.21 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b6c1e614-8787-4ad1-b8a4-a4937d82a700")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "#PWR040")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 123.19 64.77 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f12fdc02-0b6f-4fb2-bfff-c6faeac64745")
+		(property "Reference" "C10"
+			(at 123.444 67.056 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10uF"
+			(at 117.602 67.31 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 124.1552 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 123.19 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d4cd6eb5-65d4-4260-a4f1-273fb3a5fe4d")
+		)
+		(pin "1"
+			(uuid "c29d1008-3674-4ce6-8306-2ab1eed1f9b9")
+		)
+		(instances
+			(project "slimevr-hw"
+				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -31491,7 +30839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2ec16ad-0301-4127-ba48-164fceaba212")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR023"
 			(at 101.6 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -31551,7 +30899,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR029")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -31646,7 +30994,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f416a3cc-1aea-4db4-bf63-2a0dcfc9a931")
-		(property "Reference" "R11"
+		(property "Reference" "R5"
 			(at 49.276 141.224 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31708,7 +31056,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R11")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -31794,7 +31142,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 139.7 71.12 0)
+		(at 153.67 66.04 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -31803,9 +31151,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "fce0ae6c-0d79-4160-9076-31f59a2261a7")
-		(property "Reference" "#PWR09"
-			(at 139.7 77.47 0)
+		(uuid "fb965b3f-df2e-4feb-810b-b98aa90e2459")
+		(property "Reference" "#PWR038"
+			(at 153.67 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31816,7 +31164,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 139.7 76.2 0)
+			(at 153.67 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -31826,7 +31174,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 71.12 0)
+			(at 153.67 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31837,7 +31185,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 71.12 0)
+			(at 153.67 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31848,7 +31196,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 139.7 71.12 0)
+			(at 153.67 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31859,12 +31207,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "39e302fd-2b00-49f6-aa4d-b29aafb08d06")
+			(uuid "7654d104-468b-4042-bf78-3361c032487d")
 		)
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR09")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -31881,7 +31229,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ff576fba-e8bd-4895-bfda-03bb0462b8ea")
-		(property "Reference" "C12"
+		(property "Reference" "C8"
 			(at 103.632 178.562 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31945,7 +31293,7 @@
 		(instances
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "C12")
+					(reference "C8")
 					(unit 1)
 				)
 			)
