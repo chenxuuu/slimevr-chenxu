@@ -582,14 +582,314 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer",
+          "name": "Manufacturer",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "battery_pack_voltage",
+          "name": "battery_pack_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "battery_type",
+          "name": "battery_type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "body_length",
+          "name": "body_length",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "body_width",
+          "name": "body_width",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "characteristic",
+          "name": "characteristic",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "contact_plating",
+          "name": "contact_plating",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "continuous_drain_current",
+          "name": "continuous_drain_current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "core",
+          "name": "core",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "current_rating",
+          "name": "current_rating",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "drain-source_on_resistance",
+          "name": "drain-source_on_resistance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "drain_to_source_voltage",
+          "name": "drain_to_source_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "dropout_voltage",
+          "name": "dropout_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "gate_charge",
+          "name": "gate_charge",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "gate_source_threshold_voltage",
+          "name": "gate_source_threshold_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "height",
+          "name": "height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "huaqiu_pn",
+          "name": "huaqiu_pn",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "input_capacitance",
+          "name": "input_capacitance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "input_voltage",
+          "name": "input_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "interface",
+          "name": "interface",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "lead_free",
+          "name": "lead_free",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "life_cycles",
+          "name": "life_cycles",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "load_regulation",
+          "name": "load_regulation",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "mount",
+          "name": "mount",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "number_of_outputs",
+          "name": "number_of_outputs",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "operating_force",
+          "name": "operating_force",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "operating_temperature",
+          "name": "operating_temperature",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "output_current",
+          "name": "output_current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "output_power",
+          "name": "output_power",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "output_type",
+          "name": "output_type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "output_voltage",
+          "name": "output_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "package",
+          "name": "package",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "packaging",
+          "name": "packaging",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "pins",
+          "name": "pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "polarity",
+          "name": "polarity",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "power_dissipation",
+          "name": "power_dissipation",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "reach_svhc_compliant",
+          "name": "reach_svhc_compliant",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "reverse_transfer_capacitance",
+          "name": "reverse_transfer_capacitance",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "sensor_output",
+          "name": "sensor_output",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "supply_current",
+          "name": "supply_current",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "supply_voltage",
+          "name": "supply_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "threshold_voltage",
+          "name": "threshold_voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "type",
+          "name": "type",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "voltage",
+          "name": "voltage",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "voltage_rating",
+          "name": "voltage_rating",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part",
+          "name": "LCSC Part",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "描述",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "位号"
+      "sort_field": "Reference"
     },
     "bus_aliases": {},
     "connection_grid_size": 50.0,

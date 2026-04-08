@@ -5428,6 +5428,10 @@
 		(uuid "382b683b-9c85-4344-b07e-780df7e69ec2")
 	)
 	(no_connect
+		(at 53.34 147.32)
+		(uuid "49a533f0-fbfa-4273-ba46-6729bc49e337")
+	)
+	(no_connect
 		(at 91.44 88.9)
 		(uuid "62b0d28e-c481-4253-b712-d2adc7a51ddf")
 	)
@@ -5458,6 +5462,10 @@
 	(no_connect
 		(at 48.26 58.42)
 		(uuid "cbcc824d-3943-470a-a7f5-f39695d20d50")
+	)
+	(no_connect
+		(at 53.34 129.54)
+		(uuid "e9baf2c8-6500-4af7-81bb-8c46790f7017")
 	)
 	(wire
 		(pts
@@ -5581,16 +5589,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 91.44) (xy 180.34 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "20c18cfa-4fd3-43a7-9a6c-d0289975ce23")
-	)
-	(wire
-		(pts
 			(xy 50.8 182.88) (xy 53.34 182.88)
 		)
 		(stroke
@@ -5661,16 +5659,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 129.54) (xy 53.34 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f3167dd-05a6-4289-a078-e6f010de286a")
-	)
-	(wire
-		(pts
 			(xy 96.52 63.5) (xy 99.06 63.5)
 		)
 		(stroke
@@ -5701,26 +5689,6 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 91.44) (xy 203.2 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "455f0cdc-35f0-4a8b-8545-f7ae7f204e89")
-	)
-	(wire
-		(pts
-			(xy 175.26 99.06) (xy 180.34 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45b93746-b96a-4ccd-8616-abeb56ca6a3f")
-	)
-	(wire
-		(pts
 			(xy 91.44 96.52) (xy 91.44 106.68)
 		)
 		(stroke
@@ -5738,16 +5706,6 @@
 			(type default)
 		)
 		(uuid "4c09df3c-8cb9-4cdf-9a13-9aafb73343e7")
-	)
-	(wire
-		(pts
-			(xy 187.96 99.06) (xy 193.04 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4e45391d-7111-41c6-9962-d9d6b5b87878")
 	)
 	(wire
 		(pts
@@ -5961,17 +5919,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 147.32) (xy 53.34 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76b521eb-f87e-4da6-bd73-c887c89f0089")
-	)
-	(wire
-		(pts
-			(xy 187.96 83.82) (xy 193.04 83.82)
+			(xy 162.56 91.44) (xy 167.64 91.44)
 		)
 		(stroke
 			(width 0)
@@ -6041,7 +5989,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 76.2) (xy 193.04 76.2)
+			(xy 162.56 83.82) (xy 167.64 83.82)
 		)
 		(stroke
 			(width 0)
@@ -6161,7 +6109,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 83.82) (xy 180.34 83.82)
+			(xy 149.86 91.44) (xy 154.94 91.44)
 		)
 		(stroke
 			(width 0)
@@ -6261,7 +6209,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 83.82) (xy 203.2 83.82)
+			(xy 175.26 91.44) (xy 177.8 91.44)
 		)
 		(stroke
 			(width 0)
@@ -6328,16 +6276,6 @@
 			(type default)
 		)
 		(uuid "cd7f1cc8-4b29-40ff-b69a-0788fbbcf00f")
-	)
-	(wire
-		(pts
-			(xy 200.66 99.06) (xy 203.2 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1c48277-b065-42c6-9085-3553207cc37e")
 	)
 	(wire
 		(pts
@@ -6491,7 +6429,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 76.2) (xy 203.2 76.2)
+			(xy 175.26 83.82) (xy 177.8 83.82)
 		)
 		(stroke
 			(width 0)
@@ -6578,16 +6516,6 @@
 			(type default)
 		)
 		(uuid "f4148dc4-74f9-4593-bbc3-6ee74dda7772")
-	)
-	(wire
-		(pts
-			(xy 187.96 91.44) (xy 193.04 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4e5dfcc-8e96-440b-ab27-9102b9d0eab6")
 	)
 	(wire
 		(pts
@@ -22937,16 +22865,6 @@
 			"BEEQxFZBmpMgCIIgCIIgCILYKv4fWgLxdOLn9HIAAAAASUVORK5CYII="
 		)
 	)
-	(label "LED3"
-		(at 175.26 99.06 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "12938f30-cf97-40f6-9058-7cc6e2ea8028")
-	)
 	(label "LED1"
 		(at 48.26 139.7 0)
 		(effects
@@ -23017,16 +22935,6 @@
 		)
 		(uuid "57be2dc9-c200-4576-857f-bf42b417822d")
 	)
-	(label "LED2"
-		(at 48.26 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6662cd6d-4905-43bd-b61b-57a871c5a191")
-	)
 	(label "BOOT"
 		(at 43.18 182.88 0)
 		(effects
@@ -23036,16 +22944,6 @@
 			(justify left bottom)
 		)
 		(uuid "75fa7ac4-1b10-4fe3-b1a3-3a3aafa68e5c")
-	)
-	(label "LED3"
-		(at 48.26 129.54 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "78b52491-641d-44ba-89c4-dc15bf866b25")
 	)
 	(label "SCL"
 		(at 48.26 121.92 0)
@@ -23078,7 +22976,7 @@
 		(uuid "9f8be545-b8cd-4b11-af9b-40727bc6934c")
 	)
 	(label "LED1"
-		(at 175.26 83.82 0)
+		(at 149.86 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -23167,16 +23065,6 @@
 		)
 		(uuid "f5bda042-8ec9-45da-8cdf-19ca30fa67dd")
 	)
-	(label "LED2"
-		(at 175.26 91.44 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fb261848-9aed-4ae7-8af1-bad20df5cbd9")
-	)
 	(symbol
 		(lib_id "Device:C")
 		(at 20.32 186.69 0)
@@ -23211,7 +23099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 19.3548 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -23651,84 +23539,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 203.2 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0db54918-81cd-441d-a92c-f6deea196a41")
-		(property "Reference" "#PWR048"
-			(at 203.2 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 203.2 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 203.2 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 203.2 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 203.2 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5bd19239-bb51-4589-9299-44ba7c089c2e")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 156.21 58.42 90)
 		(unit 1)
@@ -23759,7 +23569,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 156.21 60.198 90)
 			(hide yes)
 			(show_name no)
@@ -23809,7 +23619,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 184.15 83.82 90)
+		(at 158.75 91.44 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23819,7 +23629,7 @@
 		(dnp no)
 		(uuid "134f555d-a7f8-4e5d-858f-6ce8c7be415e")
 		(property "Reference" "R19"
-			(at 188.976 82.804 90)
+			(at 163.576 90.424 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23829,7 +23639,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 184.15 83.82 90)
+			(at 158.75 91.44 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23838,8 +23648,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 184.15 85.598 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 158.75 93.218 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23850,7 +23660,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 83.82 0)
+			(at 158.75 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23861,7 +23671,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 184.15 83.82 0)
+			(at 158.75 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23888,7 +23698,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 203.2 83.82 0)
+		(at 177.8 91.44 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -23899,7 +23709,7 @@
 		(fields_autoplaced yes)
 		(uuid "13e18878-81d1-4989-89d2-e1f3d19d9e81")
 		(property "Reference" "#PWR046"
-			(at 203.2 90.17 0)
+			(at 177.8 97.79 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23910,7 +23720,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 203.2 88.9 0)
+			(at 177.8 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -23920,7 +23730,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 83.82 0)
+			(at 177.8 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23931,7 +23741,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 83.82 0)
+			(at 177.8 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23942,7 +23752,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 203.2 83.82 0)
+			(at 177.8 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24228,7 +24038,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 136.398 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -24718,7 +24528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 97.4852 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -25202,7 +25012,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 37.338 90)
 			(hide yes)
 			(show_name no)
@@ -25484,7 +25294,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 156.21 55.118 90)
 			(hide yes)
 			(show_name no)
@@ -25761,85 +25571,6 @@
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
 					(reference "#PWR012")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 184.15 91.44 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "35d8d004-f5dd-4c24-ac8e-98ebc0362e15")
-		(property "Reference" "R20"
-			(at 188.976 90.424 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1K"
-			(at 184.15 91.44 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 184.15 93.218 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 184.15 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "37fc290c-6d42-41b4-9386-84d7de55bb61")
-		)
-		(pin "2"
-			(uuid "f599f186-c7e9-4d20-869c-19548b74c1d7")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -26175,7 +25906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 51.7652 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -26254,7 +25985,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 92.71 55.118 90)
 			(hide yes)
 			(show_name no)
@@ -26323,7 +26054,7 @@
 				)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "470K"
 			(at 30.48 135.89 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26333,7 +26064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 32.258 135.89 90)
 			(hide yes)
 			(show_name no)
@@ -26413,7 +26144,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 49.022 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -26463,7 +26194,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 180.34 76.2 90)
+		(at 154.94 83.82 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -26474,7 +26205,7 @@
 		(fields_autoplaced yes)
 		(uuid "463feafc-b6eb-4fa1-b7dd-fbd78205c187")
 		(property "Reference" "#PWR043"
-			(at 184.15 76.2 0)
+			(at 158.75 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26485,7 +26216,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 176.53 76.1999 90)
+			(at 151.13 83.8199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -26496,7 +26227,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 180.34 76.2 0)
+			(at 154.94 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26507,7 +26238,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 180.34 76.2 0)
+			(at 154.94 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26518,7 +26249,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 180.34 76.2 0)
+			(at 154.94 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26814,7 +26545,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 87.3252 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -26893,7 +26624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 92.71 60.198 90)
 			(hide yes)
 			(show_name no)
@@ -27130,7 +26861,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 171.1452 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -27287,7 +27018,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 177.038 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -27368,7 +27099,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 178.7652 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -27497,7 +27228,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 196.85 83.82 0)
+		(at 171.45 91.44 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -27508,7 +27239,7 @@
 		(dnp no)
 		(uuid "6fe147ec-9716-43fd-8de9-0cde7fb56974")
 		(property "Reference" "D5"
-			(at 193.802 82.804 0)
+			(at 168.402 90.424 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27518,7 +27249,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 193.294 84.836 0)
+			(at 167.894 92.456 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27527,8 +27258,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 196.85 83.82 0)
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+			(at 171.45 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27539,7 +27270,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 83.82 0)
+			(at 171.45 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27550,7 +27281,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 196.85 83.82 0)
+			(at 171.45 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27561,7 +27292,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 83.82 0)
+			(at 171.45 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28001,7 +27732,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 23.8252 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -28365,7 +28096,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 196.85 76.2 0)
+		(at 171.45 83.82 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -28376,7 +28107,7 @@
 		(dnp no)
 		(uuid "85296fe0-39ba-4139-8a25-078bd4d4cf76")
 		(property "Reference" "D4"
-			(at 193.802 75.184 0)
+			(at 168.402 82.804 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28386,7 +28117,7 @@
 			)
 		)
 		(property "Value" "LED"
-			(at 193.294 77.216 0)
+			(at 167.894 84.836 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28395,8 +28126,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 196.85 76.2 0)
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+			(at 171.45 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28407,7 +28138,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 76.2 0)
+			(at 171.45 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28418,7 +28149,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 196.85 76.2 0)
+			(at 171.45 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28429,7 +28160,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 76.2 0)
+			(at 171.45 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28487,7 +28218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 133.0452 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -28568,7 +28299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 84.7852 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -28637,7 +28368,7 @@
 				)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "470K"
 			(at 30.48 125.73 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28647,7 +28378,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 32.258 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -28888,7 +28619,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 94.9452 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -29485,7 +29216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 117.8052 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -29747,97 +29478,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:LED")
-		(at 196.85 91.44 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "acdb84f1-d8d4-456a-bf7c-0196b406a70e")
-		(property "Reference" "D6"
-			(at 193.802 90.424 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 193.294 92.456 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 196.85 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 196.85 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 196.85 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "2e0dbaf6-53b8-4d5b-a6f4-6a312664d1eb")
-		)
-		(pin "1"
-			(uuid "16f86ebf-1788-4ea4-90f7-94dd17910dbc")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "D6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 118.11 104.14 90)
 		(unit 1)
@@ -29868,7 +29508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 118.11 105.918 90)
 			(hide yes)
 			(show_name no)
@@ -29996,7 +29636,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 184.15 76.2 90)
+		(at 158.75 83.82 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -30006,7 +29646,7 @@
 		(dnp no)
 		(uuid "c124d9e0-a243-406e-824e-aea123f92e8d")
 		(property "Reference" "R18"
-			(at 188.976 75.184 90)
+			(at 163.576 82.804 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30016,7 +29656,7 @@
 			)
 		)
 		(property "Value" "1K"
-			(at 184.15 76.2 90)
+			(at 158.75 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -30025,8 +29665,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 184.15 77.978 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 158.75 85.598 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30037,7 +29677,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 76.2 0)
+			(at 158.75 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30048,7 +29688,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 184.15 76.2 0)
+			(at 158.75 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30182,7 +29822,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 29.21 93.218 90)
 			(hide yes)
 			(show_name no)
@@ -30261,7 +29901,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 130.81 135.382 90)
 			(hide yes)
 			(show_name no)
@@ -30499,7 +30139,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 102.5652 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -30657,7 +30297,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 18.542 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -30817,7 +30457,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 146.05 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -31200,7 +30840,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
 			(at 146.05 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -31290,7 +30930,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 92.71 65.278 90)
 			(hide yes)
 			(show_name no)
@@ -31369,7 +31009,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 57.15 34.798 90)
 			(hide yes)
 			(show_name no)
@@ -31412,84 +31052,6 @@
 			(project "slimevr-hw"
 				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 203.2 99.06 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e723ddf0-125a-4c7e-a9f5-6ea369167723")
-		(property "Reference" "#PWR050"
-			(at 203.2 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 203.2 104.14 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 203.2 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 203.2 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 203.2 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "27ebee00-9841-40ed-a40d-9b3842ef05c9")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -31839,176 +31401,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 184.15 99.06 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "eb9e7554-f709-43a1-bb68-8bd58913504a")
-		(property "Reference" "R21"
-			(at 188.976 98.044 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1K"
-			(at 184.15 99.06 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 184.15 100.838 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 184.15 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0f55f8f8-bdec-47fb-a177-fd0ea36ba1a0")
-		)
-		(pin "2"
-			(uuid "827e90f6-20a4-4e81-9c31-ebac10ef10cd")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "R21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
-		(at 196.85 99.06 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "ec6a07ea-8a02-480f-8ec2-fa191b727cfb")
-		(property "Reference" "D7"
-			(at 193.802 98.044 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 193.294 100.076 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 196.85 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 196.85 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 196.85 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 99.06 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "8eeb41f1-9544-406e-90be-0a1df38304bc")
-		)
-		(pin "1"
-			(uuid "eabe5dd6-8c8f-4020-b5f1-dd571ace1aa3")
-		)
-		(instances
-			(project "slimevr-hw"
-				(path "/26d55be4-f922-492b-905a-c9054bcf8db2"
-					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3.3V")
 		(at 101.6 172.72 90)
 		(unit 1)
@@ -32274,7 +31666,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 44.45 144.018 90)
 			(hide yes)
 			(show_name no)
@@ -32324,7 +31716,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 203.2 76.2 0)
+		(at 177.8 83.82 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -32335,7 +31727,7 @@
 		(fields_autoplaced yes)
 		(uuid "fa44f1e6-5ae7-4243-9437-9c26beabe8a8")
 		(property "Reference" "#PWR044"
-			(at 203.2 82.55 0)
+			(at 177.8 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32346,7 +31738,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 203.2 81.28 0)
+			(at 177.8 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -32356,7 +31748,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 203.2 76.2 0)
+			(at 177.8 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32367,7 +31759,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 203.2 76.2 0)
+			(at 177.8 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32378,7 +31770,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 203.2 76.2 0)
+			(at 177.8 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32511,7 +31903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 107.6452 180.34 0)
 			(hide yes)
 			(show_name no)
